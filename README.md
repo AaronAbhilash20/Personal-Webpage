@@ -1,2 +1,2 @@
 # Personal-Webpage
-This is a basic personal portfolio of mine
+A personal website, built using HTML, CSS and JavaScript. This website is currently under development.
